@@ -1,0 +1,24 @@
+section {
+    color: white;
+    width: 100%;
+    height: 100%;
+    background-color: #252b42;
+}
+
+.past {
+    padding: 100px;
+}
+
+button {
+    border-radius: 30px;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.container button {
+    border-radius: 30px;
+}

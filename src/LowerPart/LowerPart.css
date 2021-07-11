@@ -1,0 +1,36 @@
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.title {
+    margin-top: 100px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 5px;
+    color: black;
+}
+
+.container4 .card {
+    display: flex;
+}
+
+.clientCard img {
+    width: 100%;
+    height: 100%;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.container4 {
+    padding-bottom: 50px;
+}

@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    background-color: #252b42;
+}
+
+header .logo {
+    color: white;
+}
+
+header .btn {
+    color: white;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+.hide-header {
+    height: 0% !important;
+    overflow: hidden !important;
+}
+
+header ul li a {
+    padding: 10px 14px;
+}
+
+.btn {
+    color: white;
+    margin: 5px;
+}
